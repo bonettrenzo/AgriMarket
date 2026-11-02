@@ -1,0 +1,9 @@
+/* La fuente de verdad del UIKit. Espaciado base: 4 px. */
+:root {
+  --green-950:#203527; --green-900:#263f2c; --green-700:#466941; --green-100:#edf2e6;
+  --lime:#e5edb5; --orange:#bc4c27; --orange-light:#fbede5;
+  --ink:#28352b; --muted:#667064; --surface:#fff; --canvas:#f7f8f3; --line:#e3e7dc;
+  --danger:#ad3434; --radius:16px; --radius-sm:9px; --sidebar:242px;
+  --shadow:0 8px 28px #263f2c08;
+  --font: 'Avenir Next', 'Segoe UI', Arial, sans-serif;
+}
