@@ -4,7 +4,5 @@
   "private": true,
   "type": "module",
   "description": "Prototipo académico modular HTML, CSS y JavaScript, sin dependencias de ejecución",
-  "scripts": {
-    "start": "python3 -m http.server 5500 --bind 127.0.0.1"
-  }
+  "scripts": {"start":"python3 -m http.server 5500 --bind 127.0.0.1", "check":"node scripts/check.mjs"}
 }
